@@ -37,7 +37,7 @@ Export to iOS/Android device and test on your personal device
 List of features ready and TODOs for future development
 * Full Viewable in iOS/Android Camera
 * Trackable points allow for you to view into the scene very close
-
+* Detailed scene to look into
 
 To-do list:
 * Create a more detailed 3D scene to look at 
