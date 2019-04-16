@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
+    vuforiaLicenseKey: AfAV7ar/////AAABmZE4s+gTg0+ygUF1oXzbCN14DEvO60qGO4SnHZpqU8gFrfCJqrG4ybUdJH/f2pYOrW8a9BtQHs2BsrZWYrpaLIBZx4rcMawEXdOKFzwdPzOOh8bnpKbUS18fw27KdeVHHCEWkZOHMm2/OZy0azO9ksnGoL0Y/JzmT1/u/SAE27r1OrLR1GyqV5zYs4z1/804BZV4/3+0z4jBs1yJj5PdJS/NzscBWxLpZ2ovzImb1Faab7EyamtzuN5z4KHKK4ABdVn7cJ+UV+d3EJWiHVOdBtLiayxtfWfjZFPrfN36AeIO5tzr4aDTkIsoSbKD+RUt2ltQ+4HqwKBEMUvmHnDWmBZjK4hya9LqER/ST2XCNi7Y
     ufoLicenseKey: QVE4WmlrNy8vLy8vQUFBQUtFdy9lS3N6NmtBdHNnWjlvWlZiZnNzVWJVaEZBZDYraWQrWUhSclRuVlVtK0o0NkdYZG11enA5MG5OTTd0K2daUVRYSTZkTFFETE9KVFp5UDN5d21QSG16MVh5bDhoMGVnRFhGZnFqdWhkb2NqVCsrNUcrTkwvQVhDaFNSbjN6Vlp1dzFLbDI5Mms1QVc4VlIvV2Z1N0ZwZFcyTUMyU0RWdG1EY25vRDQ1ZkpSank3MnI4V3RMK0lqYWZ1SHpFN0MzS0JMbll2dnJMd2ZzV0dTK3ZrRVJHanI1MEtxODFmNEQxYUN1MnU2SEJEOGQ2SUpCYnNIVkZ3aUNxSVI4dW5UNTV3ME5odGN4Nk45WVpYM0dzWHYzUUN6bmZ3Mytoc1lEM05vTkR3ZkJuYnlzZUZ6RmJHeG5ZQW1KTXlyNHQrYnlmTHlBK2FibUhocEtrN014RDhUN2lPSlcrY1NveThJOENpb1ptYUwyMFM=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
@@ -22,8 +22,8 @@ MonoBehaviour:
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
-    version: 1.0.0
-    eulaAcceptedVersions: 
+    version: 8.0.10
+    eulaAcceptedVersions: '{"Values":["0.0","8.0"]}'
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31

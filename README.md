@@ -18,6 +18,7 @@ This app works on iOS/Android through the camera, print out the image and track 
 
 ## Screenshots
 ![App in Action](img/Screen1.png)
+![App in Action](img/Screen2.png)
 
 ## Technologies
 * Unity3D - 2018.3.12
@@ -26,20 +27,22 @@ This app works on iOS/Android through the camera, print out the image and track 
 
 ## Setup
 ```
-git clone git@github.com:tekm/ar-window.git
-cd ar-window
+git clone git@github.com:tekm/AR-Window.git
+cd AR-Window
 Open in Unity3D/Drag & Drop
 Export to iOS/Android device and test on your personal device
 ```
 
 ## Features
 List of features ready and TODOs for future development
+* Full Viewable in iOS/Android Camera
+* Trackable points allow for you to view into the scene very close
 
 
 To-do list:
 * Create a more detailed 3D scene to look at 
 * Create a background with more tracking points
-* 
+* Print out photo and create demo video 
 
 ## Status
 Project is: _in progress_
