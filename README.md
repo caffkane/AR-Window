@@ -45,7 +45,7 @@ To-do list:
 * Print out photo and create demo video 
 
 ## Status
-Project is: _in progress_
+Project is: _Complete_
 
 ## Inspiration
 Nintendo 3DS AR Camera\
